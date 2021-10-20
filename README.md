@@ -1,2 +1,2 @@
-# Portfolio-2
- https://charyyev2000.github.io/Portfolio/
+# Portfolio-template
+https://charyyev2000.github.io/Portfolio-template/
